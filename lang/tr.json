@@ -1,0 +1,44 @@
+{
+    "no_apikey": "Herhangi bir API anahtarı kaydetmemişsiniz.",
+    "success": "Başarılı",
+    "error": "Hata",
+    "usage": "Kullanım",
+    "invalid_id": "Üzgünüm! Bu geçerli bir sunucu ID'si değil.\nSunucularını {prefix} ile görüntüleyebilirsiniz.",
+    "servers": {
+        "no_servers": "Herhangi bir sunucunuz yok.",
+        "your_servers": "{hostname} Sunucularınız"
+    },
+    "info": {
+        "start": "Sunucunuza başlatma komutu gönderildi.",
+        "stop": "Sunucunuza durdurma komutu gönderildi.",
+        "restart": "Sunucunuza yeniden başlatma komutu gönderildi.",
+        "kill": "Sunucunuza zorla kapatma komutu gönderildi.",
+        "s_info": "Sunucu Bilgisi",
+        "no_perm": "Bunu yapabilmek için gerekli izniniz yok.\nEğer sunucunun alt üyesiyseniz muhtemelen gerekli izinleri, sunucu sahibi vermemiştir.",
+        "reactions": "60 saniyeliğine tepkilerle sunucunuzu kontrol edebilirsiniz."
+    },
+    "send": {
+        "offline": "Üzgünüm, sunucu kapalı.",
+        "sent": "Komut, başarıyla sunucuya gönderildi."
+    },
+    "register": {
+        "register": "Kaydet",
+        "already_registered": "Halihazırda API anahtarı kaydedilmiş.",
+        "registered": "API anahtarınız başarıyla kaydedildi.",
+        "sent_dm": "Size DM gönderdim. Geriye kalan işlem oradan devam edecek.",
+        "sec_msg": "Gizlilik adına, geriye kalan işlem buradan devam edecek.",
+        "ask_key": "Lütfen bana API anahtarınızı gönderin.",
+        "invalid_key": "Bu API anahtarı geçersiz.\nKayıt iptal edildi."
+    },
+    "unregister": {
+        "unregister": "Kaydı Sil",
+        "unregistered": "API anahtarınızın kaydı silindi.\nKaydı silme komutunu kullandığınız yerde artık kontrol komutlarını kullanamayacaksınız.",
+        "sent_dm": "Size DM gönderdim. Geriye kalan işlem oradan devam edecek.",
+        "sec_msg": "Gizlilik adına, geriye kalan işlem buradan devam edecek.",
+        "ask_key": "Lütfen bana API anahtarınızı gönderin.",
+        "invalid_key": "Bu API anahtarı geçersiz.\nKayıt silme işlemi iptal edildi."
+    },
+    "lang": {
+        "name": "tr" 
+    }
+}
